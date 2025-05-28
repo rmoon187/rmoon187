@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Rabiul Hasan Moon 
-#### 🚀 MERN Stack Developer |  | Lifelong Learner
+#### 🚀 MERN Stack Developer | Front-end Specialist | Lifelong Learner
 
 Crafting elegant, high-performance web applications with modern architectures. Focused on delivering seamless user experiences through clean code and intuitive interfaces.  I enjoy turning complex problems into simple, beautiful, and intuitive solutions. 
 
