@@ -3,7 +3,7 @@
 
 Crafting elegant, high-performance web applications with modern architectures. Focused on delivering seamless user experiences through clean code and intuitive interfaces.  I enjoy turning complex problems into simple, beautiful, and intuitive solutions. 
 
-- 🔭 Currently working on: My Porfolio
+- 🔭 Currently working on: An E-Commerce project
 - 🌱 Currently learning: Three.js, Typescript, Next.js
 - 💬 Ask me about: React, Node.js, Firebase, REST APIs
 - 👯 Looking to collaborate on: Open-source MERN projects
@@ -22,19 +22,18 @@ Crafting elegant, high-performance web applications with modern architectures. F
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=white)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rmoon187&show_icons=true&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmoon187&layout=compact&theme=react)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rmoon187&theme=react)
+
 
 ### 🔥 Featured Projects
 
-- 🚀 [RecomHub](https://github.com/yourusername/recomhub): A product recommendation platform with user-authored product queries and crowd-sourced suggestions. Built with React, Firebase, and Tailwind CSS.
+- 🚀 [RecomHub](https://github.com/rmoon187/ass-11-client): A product recommendation platform with user-authored product queries and crowd-sourced suggestions. Built with React, Firebase, and Tailwind CSS.
 
-- 🏀 [Athletix](https://github.com/yourusername/athletix): A sports equipment store with user authentication, product management, and a dynamic UI. Built using MERN and DaisyUI.
-
-- 📋 [CareerConnect](https://github.com/yourusername/careerconnect): A career counseling portal with secure login, resource management, and admin dashboard.
+- 🏀 [Athletix](https://github.com/rmoon187/a-10-client): A sports equipment store with user authentication, product management, and a dynamic UI. Built using MERN and DaisyUI.
 
 ### 📫 Let's Connect
 
