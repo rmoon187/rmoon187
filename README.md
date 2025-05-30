@@ -1,7 +1,9 @@
 ### Hi there 👋, I'm Rabiul Hasan Moon 
 #### 🚀 MERN Stack Developer | Front-end Specialist | Lifelong Learner
 
-Crafting elegant, high-performance web applications with modern architectures. Focused on delivering seamless user experiences through clean code and intuitive interfaces.  I enjoy turning complex problems into simple, beautiful, and intuitive solutions. 
+Crafting elegant, high-performance web applications with modern architectures. Focused on delivering seamless user experiences through clean code and intuitive interfaces.  I enjoy turning complex problems into simple, beautiful, and intuitive solutions. Front-end alchemist: turning coffee into components and bugs into features. Obsessed with smooth UI, allergic to messy code. Developing responsive, accessible, and elegant front-end experiences. Focused on user-first design and seamless interactions.
+
+
 
 - 🔭 Currently working on: An E-Commerce project
 - 🌱 Currently learning: Three.js, Typescript, Next.js
